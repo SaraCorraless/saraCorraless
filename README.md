@@ -1,7 +1,4 @@
-## Hello there!👋
-![image]()
-
-
+## Hello there!<img src="https://github.com/saraCorralesss/Resource/blob/master/Images/saludog.gif" width="70">
 ### I'm Sara and I've been a software developer for 2 years
 
 
