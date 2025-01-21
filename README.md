@@ -1,4 +1,4 @@
-<img src="https://github.com/SaraCorraless/Resource/blob/master/Images/Toyoi Yuuta_ La vida cotidiana japonesa en Gifs de 8 bits - Área Visual.gif" width="1000px" height="200px"/>
+<img src="https://github.com/SaraCorraless/Resource/blob/master/Images/Toyoi Yuuta_ La vida cotidiana japonesa en Gifs de 8 bits - Área Visual.gif" width="800px" height="200px"/>
 
 ## Hola! Soy Sara. 
 #### Siempre estoy explorando nuevas tecnologías y frameworks para mantenerme al día.
